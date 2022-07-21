@@ -48,7 +48,7 @@ strided tx staking create-validator \
 -y
 ```
 
-# Explorer kontrol: https://stride.explorers.guru/validator/stridevaloper1vm6wnmvxugqj8k6s6d2cktgctc550qaq53jyus
+# Explorer kontrol: https://stride.explorers.guru/validator/stridevaloper18sw7645nnuccm8609q5a6xf5wx56ky9ufg9m4c
 
 # sorular için: https://t.me/StrideTurkish
 
